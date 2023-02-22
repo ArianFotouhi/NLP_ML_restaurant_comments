@@ -1,0 +1,1 @@
+An NLP program for sentimental analysis and classification of customer comments on a certain restaurant. Stemming and vectorization of words employed NLTK library. Naive Bayes is the ML technique for classification of comments.
